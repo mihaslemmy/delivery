@@ -1,0 +1,11 @@
+.reviews__inner {
+  background-color: #FED100;
+  padding: 100px 94px 0;
+}
+
+.reviews__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*# sourceMappingURL=reviews.css.map */
