@@ -751,6 +751,10 @@ html {
   margin-bottom: 35px;
 }
 
+.list__item-check {
+  margin-right: 15px;
+}
+
 .list__item {
   margin-bottom: 28px;
 }
@@ -973,6 +977,11 @@ html {
 
 .contacts__icon {
   margin-right: 25px;
+}
+
+.contacts__check {
+  margin-right: 15px;
+  color: #FED100;
 }
 
 .footer__inner {
